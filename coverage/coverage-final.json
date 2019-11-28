@@ -1,0 +1,2 @@
+{"/home/nik/DEV/my/blackchaose.js_jest/src/index.js": {"path":"/home/nik/DEV/my/blackchaose.js_jest/src/index.js","statementMap":{"0":{"start":{"line":2,"column":22},"end":{"line":2,"column":54}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":2,"column":15},"end":{"line":2,"column":16}},"loc":{"start":{"line":2,"column":22},"end":{"line":2,"column":54}},"line":2}},"branchMap":{},"s":{"0":2},"f":{"0":2},"b":{},"_coverageSchema":"43e27e138ebf9cfc5966b082cf9a028302ed4184","hash":"f5f87d48aae4b57c7d2f66e5d45ccde4839d85c0"}
+}
