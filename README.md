@@ -1,4 +1,4 @@
-# js_test
+# js_jest
 
 ---
 
